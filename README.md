@@ -4,6 +4,7 @@
 
 - 📡 Network & Telecoms Student
 - ✍️ Currently working on WoW Vanilla (1.12) AddOns for Private Server [Turtle WoW](https://turtle-wow.org/)
+- 🛠️ Lua and C# enjoyer
 
 
 <p align="center">

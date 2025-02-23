@@ -19,13 +19,14 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4  
+        uses: actions/checkout@v4
 
-      - name: Generate snake.svg
+      - name: Generate snake.svg (Dark Mode)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg  
+          outputs: dist/snake.svg
+          palette: github-dark  
 
       - name: Push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3

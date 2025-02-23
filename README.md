@@ -5,6 +5,14 @@
     <img src="https://streak-stats.demolab.com/?user=rmarc29&theme=great-gatsby" alt="GitHub Streak"/>
   </a>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rmarc29/rmarc29/output/snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rmarc29/rmarc29/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/rmarc29/rmarc29/output/snake.svg">
+</picture>
+
+
 <!--
 **rmarc29/rmarc29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

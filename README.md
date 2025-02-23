@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-- 🇫🇷 & 🇷🇴
+- <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="France Flag" width="15"> & <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg" alt="Romania Flag" width="15">
+
 - 📡 Network & Telecoms Student
 - ✍️ Currently working on WoW Vanilla (1.12) AddOns for Private Server [Turtle WoW](https://turtle-wow.org/)
 

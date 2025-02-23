@@ -7,9 +7,9 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/output/snake.svg#gh-dark-mode-only">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/output/snake.svg#gh-light-mode-only">
-  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/output/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rmarc29/output/snake.svg#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rmarc29/output/snake.svg#gh-light-mode-only">
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/rmarc29/output/snake.svg">
 </picture>
 
 <!--

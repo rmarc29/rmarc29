@@ -7,11 +7,7 @@
 - 🛠️ Lua and C# enjoyer
 
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=rmarc29&theme=great-gatsby" alt="GitHub Streak"/>
-  </a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rmarc29&theme=great-gatsby)](https://git.io/streak-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rmarc29/rmarc29/output/github-snake-dark.svg">

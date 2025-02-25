@@ -6,8 +6,11 @@
 - ✍️ Currently working on WoW Vanilla (1.12) AddOns for Private Server [Turtle WoW](https://turtle-wow.org/)
 - 🛠️ Lua and C# enjoyer
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rmarc29&theme=great-gatsby)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=rmarc29&theme=great-gatsby" alt="GitHub Streak" />
+  </a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rmarc29/rmarc29/output/github-snake-dark.svg">

@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=rmarc29&theme=great-gatsby" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats-delta-dun.vercel.app/?user=rmarc29&theme=great-gatsby" alt="GitHub Streak" />
   </a>
 </p>
  

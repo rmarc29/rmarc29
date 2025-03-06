@@ -7,7 +7,7 @@
 - 🛠️ Lua and C# enjoyer
 - 🎮 Also known as : TNS, TheNoScope
 
-If you like my work and wanna support me, [Buy me a coffee](https://buymeacoffee.com/rmarc29)
+If you like my work and wanna support me, [Buy me a coffee !](https://buymeacoffee.com/rmarc29)
 
 <p align="center">
   <a href="https://git.io/streak-stats">

@@ -7,8 +7,9 @@
 - 🛠️ Lua and C# enjoyer
 - 🎮 Also known as : TNS, TheNoScope
 
-If you like my work and wanna support me, [Buy me a coffee !](https://buymeacoffee.com/rmarc29)
- 
+> [!TIP]
+> If you like my work and wanna support me, [Buy me a coffee !](https://buymeacoffee.com/rmarc29)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rmarc29/rmarc29/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rmarc29/rmarc29/output/github-snake.svg">
